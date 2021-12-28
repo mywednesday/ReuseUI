@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ReuseUI'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'MFE for ReuseUI project'
   s.description      = 'MFE for ReuseUI project'
   s.homepage         = 'https://git.realestate.com.au/consumer-experience/workflows-ios'
